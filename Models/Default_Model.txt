@@ -1,0 +1,18 @@
+Model Name: Default_Model
+
+Estimated Accuracy: 0.8146293656450464
+
+Dataset: Create Model Dataset.xlsx
+
+Features: 3
+- Echeme Period ()
+- Echeme Duration ()
+- Inter-Echeme Duration ()
+
+Classes: 3
+- Chremsitica
+- Orientopsaltria
+- Sp.2
+
+Description: 
+Default model.
