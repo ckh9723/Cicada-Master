@@ -1,0 +1,17 @@
+Model Name: Default Model
+
+Features: 3
+- Echeme Period ()
+- Echeme Duration ()
+- Inter-Echeme Duration ()
+
+Classes: 3
+- Chremsitica
+- Orientopsaltria
+- Sp.2
+
+showTutorial: True
+showClassifyHelp: True
+showCreateHelp: True
+showCreateFeatureWarn: True
+showCreateWarn: True
